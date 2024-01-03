@@ -1,4 +1,4 @@
-Dashbpard URL : https://rpubs.com/AbhinavGandhi02/Assignment3
+Dashboard URL : https://rpubs.com/AbhinavGandhi02/Assignment3
 
 The EPI ranks 180 countries on environmental health and ecosystem vitality, using 32 performance indicators. It indicates which countries are best adressing to environmental challenges. \
 
